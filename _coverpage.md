@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/smalllogo.png)
+![logo](https://docs.jimh.co/_media/smalllogo.png)
 
 > Trimmy Simmy! A Modern, Online Exam Simulator!
 
