@@ -1,14 +1,11 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+![logo](_media/smalllogo.png)
 
-# docsify <small>3.5</small>
+> Trimmy Simmy! A Modern, Online Exam Simulator!
 
-> A magical documentation site generator.
+- Multiple Question Types Supported.
+- Lots of options. 
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
-
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[GitHub](https://github.com/JImHaywood90/TrimmySimmy)
+[Get Started](#app)
