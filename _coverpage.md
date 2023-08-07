@@ -10,7 +10,7 @@
 - Designed for both individual learners and educators.
 
 [GitHub](https://github.com/JImHaywood90/TrimmySimmy)
-[Get Started](#app)
+[Get Started](#start)
 
 <!-- background image -->
 
